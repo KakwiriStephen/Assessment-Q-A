@@ -249,6 +249,3 @@ Deploy via Render or Railway
 - (Optional) Deployed frontend/backend
 
 ---
-
-## 👨‍💻 Author
-Built with ❤️ by [Your Name Here] 
